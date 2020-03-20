@@ -450,7 +450,9 @@
       "cooked_beef": "2020-03-20 15:37:27 +0800",
       "apple": "2020-03-20 01:25:15 +0800",
       "cooked_cod": "2020-03-20 02:55:24 +0800",
+      "pufferfish": "2020-03-20 23:03:52 +0800",
       "rotten_flesh": "2020-03-20 14:49:27 +0800",
+      "salmon": "2020-03-20 23:04:22 +0800",
       "melon_slice": "2020-03-20 01:26:42 +0800",
       "cooked_chicken": "2020-03-20 01:37:19 +0800",
       "cod": "2020-03-20 02:39:55 +0800",
@@ -957,6 +959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2020-03-20 23:01:48 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-20 01:34:30 +0800"
@@ -1357,6 +1365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2020-03-20 23:01:48 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2020-03-20 01:39:30 +0800"
@@ -1720,6 +1734,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2020-03-20 01:19:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2020-03-20 23:01:48 +0800"
     },
     "done": true
   },
