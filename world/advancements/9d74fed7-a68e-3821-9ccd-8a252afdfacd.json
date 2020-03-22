@@ -1225,7 +1225,9 @@
       "minecraft:dark_forest": "2020-03-22 17:50:57 +0800",
       "minecraft:river": "2020-03-16 18:32:52 +0800",
       "minecraft:birch_forest_hills": "2020-03-22 18:32:59 +0800",
+      "minecraft:wooded_mountains": "2020-03-23 04:45:54 +0800",
       "minecraft:wooded_hills": "2020-03-20 16:48:00 +0800",
+      "minecraft:stone_shore": "2020-03-23 04:45:17 +0800",
       "minecraft:savanna": "2020-03-16 12:56:47 +0800",
       "minecraft:plains": "2020-03-19 18:02:48 +0800"
     },
@@ -1408,6 +1410,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2020-03-17 22:09:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2020-03-23 04:34:32 +0800"
     },
     "done": true
   },
