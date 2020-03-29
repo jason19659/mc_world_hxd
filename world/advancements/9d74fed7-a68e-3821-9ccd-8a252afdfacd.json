@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2020-03-29 22:38:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_the_recipe": "2020-03-16 13:00:16 +0800"
@@ -1309,6 +1315,7 @@
       "minecraft:beach": "2020-03-16 19:09:31 +0800",
       "minecraft:dark_forest": "2020-03-22 17:50:57 +0800",
       "minecraft:river": "2020-03-16 18:32:52 +0800",
+      "minecraft:lukewarm_ocean": "2020-03-29 22:30:59 +0800",
       "minecraft:birch_forest_hills": "2020-03-22 18:32:59 +0800",
       "minecraft:wooded_mountains": "2020-03-23 04:45:54 +0800",
       "minecraft:wooded_hills": "2020-03-20 16:48:00 +0800",
@@ -1658,6 +1665,12 @@
   "minecraft:adventure/sniper_duel": {
     "criteria": {
       "killed_skeleton": "2020-03-23 20:08:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2020-03-29 22:38:17 +0800"
     },
     "done": true
   },
@@ -2407,6 +2420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2020-03-29 22:38:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2020-03-17 12:26:17 +0800"
@@ -2687,6 +2706,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-20 22:47:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2020-03-29 22:34:33 +0800"
     },
     "done": true
   },
@@ -2993,6 +3018,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2020-03-20 15:26:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2020-03-29 22:38:17 +0800"
     },
     "done": true
   },
